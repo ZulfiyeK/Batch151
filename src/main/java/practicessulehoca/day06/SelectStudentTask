@@ -1,4 +1,5 @@
-   SELECT STUDENT
+
+       SELECT STUDENT
 1) Kullanıcının girdiği öğrenci sayısı kadar öğrencinin;
 2) isimlerini, cinsiyetlerini, boy ve kilo bilgilerini alarak
    bu bilgileri kullanarak kursa kabul edilecek öğrencileri belirleyen,
